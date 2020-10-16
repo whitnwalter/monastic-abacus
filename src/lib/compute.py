@@ -11,6 +11,9 @@ class Compute:
     def subtract(self):
         pass
 
+    def divide(self):
+        pass
+
     def multiply(self):
         pass
 
